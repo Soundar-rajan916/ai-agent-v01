@@ -7,3 +7,4 @@ pydantic
 pdfplumber
 python-dotenv
 langchain-groq
+python-multipart
